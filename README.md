@@ -18,4 +18,8 @@
 6. GET(setelah put)
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/30b15f2d-ea3c-49ef-94a0-d3414d6dc7f0" />
 
+7. MySQL
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/9ad96065-adec-4b97-b95e-94ddf6f6427e" />
+
+
 
